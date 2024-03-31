@@ -1,0 +1,17 @@
+{
+    "name": "nodegame.eu",
+    "description": "nodegame.eu platform library",
+    "version": "0.0.0",
+    "main": "lib/index.js",
+    "bin": {
+        "nodegame.eu": "lib/cli.js"
+    },
+    "author": "Prokop Schield",
+    "dependencies": {
+        "socket.io-client": "^4.7.5"
+    },
+    "devDependencies": {
+        "@types/node": "^18"
+    },
+    "license": "GPL-3.0-or-later"
+}
