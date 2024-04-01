@@ -1,0 +1,18 @@
+{
+    "name": "nodegame.eu-backend",
+    "description": "nodegame.eu service backend",
+    "version": "0.0.0",
+    "main": "lib/index.js",
+    "bin": {
+        "nodegame.eu-backend": "lib/cli.js"
+    },
+    "author": "Prokop Schield",
+    "dependencies": {
+        "socket.io": "^4.7.5"
+    },
+    "devDependencies": {
+        "@types/node": "^18"
+    },
+    "keywords": [],
+    "license": "GPL-3.0-or-later"
+}
