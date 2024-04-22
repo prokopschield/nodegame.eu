@@ -1,1 +1,3 @@
-export { config } from "./config";
+import * as http from "./http";
+
+export default { http };
