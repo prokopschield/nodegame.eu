@@ -1,3 +1,3 @@
 import * as http from "./http";
 
-export default { http };
+export const config = { http };
